@@ -26,8 +26,8 @@ To identify ad campaigns that is causing major financial losses. Test if high-lo
 ---
  
 ## Recommendations
-1.Pause or rework coupon-based campaigns, especially on mobile.
-2.Prioritize top performers like Black Friday/Cyber Monday and competitor-targeting campaigns.  
+1.Pause or rework coupon-based campaigns, especially on mobile.  
+2.Prioritize top performers like Black Friday/Cyber Monday and competitor-targeting campaigns.   
 3.Implement monthly Z-score analysis to flag highloss campaigns early.   
 4.Adopt performance-based budgeting allocate more to proven profitable ad groups.   
 5.Introduce monthly A/B testing to continuously learn what works.
