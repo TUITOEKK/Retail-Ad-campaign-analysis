@@ -22,6 +22,9 @@ To identify ad campaigns that is causing major financial losses. Test if high-lo
 
   
   🔗 **[Check out full analysis on here](https://github.com/TUITOEKK/Retail-Ad-campaign-analysis/blob/main/Analysis.ipynb)**
+
+
+    🔗 **[Check out full summary on here](https://tuitoekk.github.io/presentation1/)**  
  
 ---
  
